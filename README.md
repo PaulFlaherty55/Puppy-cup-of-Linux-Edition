@@ -1,0 +1,2 @@
+# Puppy-cup-of-Linux-Edition
+ This re-spin of Puppy Linux is made for old computers,and is easy to use for new users.  All you need to do is install it and then your done. you also get a ton of programs.  Which include: Skype,Firefox,Google chrome,and Thunderbird.  And it’s only 305 megabytes. To start the XFCE desktop go to the menu and go to shutdown and then click on exit to prompt. Type in xwin startxfce4 and, it will start.
